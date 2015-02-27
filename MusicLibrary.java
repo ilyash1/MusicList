@@ -13,7 +13,7 @@ public class MusicLibrary {
    * Add song to songs ArrayList
    */
   public void addSong (Song song)
-  {
+  { 
   }
   
   /*
@@ -30,7 +30,7 @@ public class MusicLibrary {
    */
   public void Sort ()
   {
-     currentSortField = field;
+  //   currentSortField = field;
   }
   
   /*
