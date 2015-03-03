@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+ 
 public class MusicRunner
 {
   public static void main (String[] args)
@@ -26,7 +26,12 @@ public class MusicRunner
       System.out.println(Arrays.toString(data));
       
       // Let's try to create a Song object
-      Song song = new Song(data[0], data[1]);  // data[0] is the artist and data[1] is the name
+      //int year = 
+      
+      
+      //Song song = new Song(data[0], data[1]);  // data[0] is the artist and data[1] is the name
+      
+      //System.out.println(song.artist);
       
       count++;
       
